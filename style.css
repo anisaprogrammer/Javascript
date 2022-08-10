@@ -8,6 +8,9 @@ h1, h2{
 
 .directSelction{
     font-size: 100px;
+    background-color: blueviolet;
+    width: 400px;
+    
 }
 #directSelection{
     font-size: x-large;
