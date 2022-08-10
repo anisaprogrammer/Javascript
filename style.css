@@ -1,0 +1,16 @@
+*{
+
+}
+
+h1, h2{
+ text-align: center;   
+}
+
+.directSelction{
+    font-size: 100px;
+}
+#directSelection{
+    font-size: x-large;
+    background-color: black;
+    color: wheat;
+}
